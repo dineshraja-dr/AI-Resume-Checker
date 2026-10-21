@@ -10,7 +10,7 @@ An AI-powered full-stack application designed to help job seekers evaluate their
 ![GitHub](https://img.shields.io/badge/Version%20Control-Git-orange)
 
 ---
-
+ 
 ## 📌 Table of Contents
 
 - [🎯 Project Overview](#-project-overview)
